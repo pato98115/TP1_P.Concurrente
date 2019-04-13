@@ -3,5 +3,8 @@ public class Dato {
     public Dato(){
         datoElegido = new Comida();
     }
+    public String getDato(){
+        datoElegido.getComida();
+    }
 
 }
