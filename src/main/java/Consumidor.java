@@ -12,5 +12,7 @@ public class Consumidor implements Runnable{
             buffer.quitar();
         }
     }
+    
 }
-}
+
+
